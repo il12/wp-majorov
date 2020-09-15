@@ -14,7 +14,7 @@
     <div class="logo-title-div">
         <div class="site-title-div">
             <div class="site-logo">
-                <img src="./img/face_logo.png">
+                <img src="<?php echo get_template_directory_uri();?>/img/face_logo.png">
             </div>
             <h1 class="site-title"><a href="">MICSECS 2019</a></h1>
             <div class="site-title-second-line">

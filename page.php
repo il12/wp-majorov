@@ -1,5 +1,8 @@
-<?php /* Template Name: Page Template */ ?>
-    <?php get_header()?>
+<?php
+    /* Template Name: Шаблон страницы */
+    /* Template Post Type: post, page, event */
+?>
+<?php get_header()?>
 
 <section class="content">
     <div class="grid post">
