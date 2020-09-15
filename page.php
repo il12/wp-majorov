@@ -4,7 +4,7 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-
+                <?php the_content() ?>
         </div>
     </div>
 </section>
