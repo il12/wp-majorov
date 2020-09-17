@@ -13,7 +13,7 @@
             <p>A special issue of “Computers” journal will be published in 2020 and will be indexed by ESCI, Inspec,
                 DBLP, and Scopus.</p>
 
-            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/2019/MICSECS-2019-papers_for_Computers.pdf"
+            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/MICSECS-2019-papers_for_Computers.pdf"
                                                                 target="_blank"><strong>download</strong></a>.</p>
 
             <p>Each submission to this Special Issue should contain at least <strong>50% of new material</strong>, e.g.,
@@ -41,7 +41,7 @@
                 The authors need to use the submission that they uploaded to the easychair platform to be published in
                 these proceedings.</p>
 
-            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/2019/MICSECS-2019-papers_for_CEUR.pdf"
+            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/MICSECS-2019-papers_for_CEUR.pdf"
                                                                 target="_blank"><strong>download</strong></a>.</p>
 
             <p>Instructions:</p>
@@ -100,7 +100,7 @@
                                                         target="_blank"><strong>Easy Chair</strong></a> platform to be
                 published in these proceedings.</p>
 
-            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/2019/MICSECS-2019-papers_for_RSCI.pdf"
+            <p><strong>The list of selected papers</strong>: <a href="<?php echo get_template_directory_uri();?>/media/MICSECS-2019-papers_for_RSCI.pdf"
                                                                 target="_blank"><strong>download</strong></a>.</p>
 
             <p>Instructions:</p>
@@ -121,10 +121,10 @@
                 <li>Briefly correct your submission according to the reviewers’ comments.</li>
                 <li>Check spelling, proofreading by a native speaker is welcome.</li>
                 <li>Participants from Russia should prepare and scan an expert analysis form (<a
-                        href="<?php echo get_template_directory_uri();?>/media/2019/expert_example.docx" target="_blank"><strong>example</strong></a>) for the
+                        href="<?php echo get_template_directory_uri();?>/media/expert_example.docx" target="_blank"><strong>example</strong></a>) for the
                     open access publication possibility.
                 </li>
-                <li>Fill out and scan the copyright transfer application (<a href="<?php echo get_template_directory_uri();?>/media/2019/authors_rights.docx"
+                <li>Fill out and scan the copyright transfer application (<a href="<?php echo get_template_directory_uri();?>/media/authors_rights.docx"
                                                                              target="_blank"><strong>example</strong></a>).
                 </li>
                 <li>Send the source TeX file, the compiled PDF file, the scan of the expert analysis form and the scan

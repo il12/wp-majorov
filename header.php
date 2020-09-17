@@ -29,16 +29,16 @@
         <div class="clear-opener show-on-mobiles"></div>
         <div class="grid">
             <ul>
-                <li><a href="./index.html"><i class="fa fa-home"></i>Home</a></li>
-                <li><a href="./call.html"><i class="fa"></i>Call For Papers</a></li>
-                <li><a href="./publication.html"><i class="fa"></i>Publication</a></li>
-                <!-- <li><a href="/program.html"><i class="fa"></i>Program</a></li> -->
-                <!-- <li><a href="/hackathon.html"><i class="fa"></i>Hackathon</a></li> -->
-                <li><a href="./organization.html"><i class="fa"></i>Organization</a></li>
-                <!-- <li><a href="/registration.html"><i class="fa"></i>Registration</a></li> -->
-                <!-- <li><a href="/forauthors.html"><i class="fa"></i>For authors</a></li> -->
-                <li><a href="./prev_conf.html"><i class="fa"></i>Past events</a></li>
-                <li><a href="./contacts.html"><i class="fa"></i>Contacts</a></li>
+                <li><a href="/index.php"><i class="fa fa-home"></i>Home</a></li>
+                <li><a href="/call/"><i class="fa"></i>Call For Papers</a></li>
+                <li><a href="/publication"><i class="fa"></i>Publication</a></li>
+                <!-- <li><a href="/program"><i class="fa"></i>Program</a></li> -->
+                <!-- <li><a href="/hackathon"><i class="fa"></i>Hackathon</a></li> -->
+                <li><a href="/organization"><i class="fa"></i>Organization</a></li>
+                <!-- <li><a href="/registration"><i class="fa"></i>Registration</a></li> -->
+                <!-- <li><a href="/for-authors"><i class="fa"></i>For authors</a></li> -->
+                <li><a href="/previous-conferences"><i class="fa"></i>Past events</a></li>
+                <li><a href="/contacts"><i class="fa"></i>Contacts</a></li>
             </ul>
         </div>
     </nav>

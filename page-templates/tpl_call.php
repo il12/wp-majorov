@@ -16,9 +16,9 @@
             <h2 id="submission">Submission</h2>
 
             <p>All authors will be required to pre-submit abstracts of their papers. All submissions will be carefully reviewed by the program committee.
-                <strong>The acceptance rate</strong> in the 2018 year was <a href="/prev_conf.html">0.73</a>.</p>
+                <strong>The acceptance rate</strong> in the 2018 year was <a href="/previous-conferences">0.73</a>.</p>
 
-            <p>Please refer to <a href="/registration.html">Registration</a> to learn more about the registration procedure and the requirements.</p>
+            <p>Please refer to <a href="/registration">Registration</a> to learn more about the registration procedure and the requirements.</p>
 
             <h2 id="important-dates">Important dates</h2>
 

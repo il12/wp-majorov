@@ -29,42 +29,42 @@
             <p><strong>Keynote talk</strong>: ​«AR/VR technologies in education» by <strong>Dmitrii Kirillov</strong>,
                 President of Modum Lab</p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2019/Kirill_1.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/Kirill_2.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/Kirill_1.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/Kirill_2.jpg"></p>
 
             <p><strong>Invited talk</strong>: ​«The cyberpunk that we’ve deserved» by <strong>Artem Smolin</strong>,
                 ​ITMO University</p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2019/Artem.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/Artem.jpg"></p>
 
             <p><strong>Keynote talk</strong>: ​«Computer Music Technologies: Software Engineeringand Computer Systems at
                 the Sound Frontier» by
                 <strong>Gleb G. Rogozinsky</strong>, ​Head of SUT Medialab</p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2019/Gleb_1.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/Gleb_2.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/Gleb_1.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/Gleb_2.jpg"></p>
 
             <p><strong>Conference Sessions</strong></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1164.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1243.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1367.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1376.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1435.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1442.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1445.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1471.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1484.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1499.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1506.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1527.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_1560.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_1164.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1243.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1367.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1376.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1435.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1442.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1445.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1471.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1484.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1499.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1506.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1527.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_1560.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_7471.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_0953.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_7508.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_7521.jpg">
-                <img src="<?php echo get_template_directory_uri();?>/img/2019/IMG_7541.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_7471.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_0953.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_7508.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_7521.jpg">
+                <img src="<?php echo get_template_directory_uri();?>/img/IMG_7541.jpg"></p>
 
             <h2 id="micsecs-2018">MICSECS-2018</h2>
 
@@ -87,27 +87,27 @@
             <p><strong>Keynote talk</strong>: «Self-Driving Cars: Difficulties vs Opportunities? » by <strong>Boris
                 Ivanov</strong>, <a href="https://www.starline.ru/" target="_blank"><strong>StarLine</strong></a></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_8931.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_8931.jpg"></p>
 
             <p>Poster &amp; Demo Session</p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_8945.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_8945.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_8968.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_8968.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_8993.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_8993.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_8998.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_8998.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_9072.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_9072.jpg"></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_9076.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_9076.jpg"></p>
 
             <p><strong>Keynote talk</strong>: «Self Sovereign Identity: on DIDs and more», by <strong>Dirk
                 Thatmann</strong>, <a href="https://laboratories.telekom.com/"
                                       target="_blank"><strong>T-Labs</strong></a></p>
 
-            <p><img src="<?php echo get_template_directory_uri();?>/img/2018/IMG_9150.jpg"></p>
+            <p><img src="<?php echo get_template_directory_uri();?>/img/IMG_9150.jpg"></p>
         </div>
     </div>
 </section>

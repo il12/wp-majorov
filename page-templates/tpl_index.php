@@ -18,12 +18,12 @@
             <p>Based on the results of your participation in the conference, the organizing committee offers you to publish materials in the following collection of articles:</p>
 
             <ol>
-                <li>“<strong>Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems</strong>”, which will be published in the first half of 2020 and will be indexed in the RSCI database. The list of selected papers: <a href="./media/2019/MICSECS-2019-papers_for_RSCI.pdf" target="_blank"><strong>download</strong></a>.</li>
-                <li>“<strong>CEUR Workshop Proceedings</strong>”, which will be published in 2020 and will be indexed in the Scopus and DBLP databases. The list of selected papers: <a href="./media/2019/MICSECS-2019-papers_for_CEUR.pdf" target="_blank"><strong>download</strong></a>.</li>
-                <li>A special issue of “<strong>Computers</strong>” magazine, which will be published in 2020 and will be indexed in ESCI, Inspec, DBLP, and Scopus. The list of selected papers: <a href="./media/2019/MICSECS-2019-papers_for_Computers.pdf" target="_blank"><strong>download</strong></a>.</li>
+                <li>“<strong>Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems</strong>”, which will be published in the first half of 2020 and will be indexed in the RSCI database. The list of selected papers: <a href="./media/MICSECS-2019-papers_for_RSCI.pdf" target="_blank"><strong>download</strong></a>.</li>
+                <li>“<strong>CEUR Workshop Proceedings</strong>”, which will be published in 2020 and will be indexed in the Scopus and DBLP databases. The list of selected papers: <a href="./media/MICSECS-2019-papers_for_CEUR.pdf" target="_blank"><strong>download</strong></a>.</li>
+                <li>A special issue of “<strong>Computers</strong>” magazine, which will be published in 2020 and will be indexed in ESCI, Inspec, DBLP, and Scopus. The list of selected papers: <a href="./media/MICSECS-2019-papers_for_Computers.pdf" target="_blank"><strong>download</strong></a>.</li>
             </ol>
 
-            <p>The instructions for each option are available at <a href="/publication.html"><strong>Publication page</strong></a>.</p>
+            <p>The instructions for each option are available at <a href="/publication"><strong>Publication page</strong></a>.</p>
 
             <h2 id="micsecs-2019-statistics">MICSECS-2019 Statistics</h2>
 
@@ -131,7 +131,7 @@
                 <li>Human Computer Interfaces</li>
             </ul>
 
-            <p>Please refer to <a href="<?php echo get_template_directory_uri();?>/call.html">Call For Papers</a> to learn more about the conference.</p>
+            <p>Please refer to <a href="<?php echo get_template_directory_uri();?>/call">Call For Papers</a> to learn more about the conference.</p>
 
             <h2 id="advantages-for-the-participants">Advantages for the participants</h2>
 
