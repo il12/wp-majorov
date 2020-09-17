@@ -27,20 +27,16 @@
     <nav class="main-nav">
         <a href="#" class="opener show-on-mobiles">...</a>
         <div class="clear-opener show-on-mobiles"></div>
-        <div class="grid">
-            <ul>
-                <li><a href="/index.php"><i class="fa fa-home"></i>Home</a></li>
-                <li><a href="/call/"><i class="fa"></i>Call For Papers</a></li>
-                <li><a href="/publication"><i class="fa"></i>Publication</a></li>
-                <!-- <li><a href="/program"><i class="fa"></i>Program</a></li> -->
-                <!-- <li><a href="/hackathon"><i class="fa"></i>Hackathon</a></li> -->
-                <li><a href="/organization"><i class="fa"></i>Organization</a></li>
-                <!-- <li><a href="/registration"><i class="fa"></i>Registration</a></li> -->
-                <!-- <li><a href="/for-authors"><i class="fa"></i>For authors</a></li> -->
-                <li><a href="/previous-conferences"><i class="fa"></i>Past events</a></li>
-                <li><a href="/contacts"><i class="fa"></i>Contacts</a></li>
-            </ul>
-        </div>
+        <?php wp_nav_menu( array(
+        	'menu'            => 'Main menu',              // (string) Название выводимого меню (указывается в админке при создании меню, приоритетнее
+        	'container'       => 'div',           // (string) Контейнер меню. Обворачиватель ul. Указывается тег контейнера (по умолчанию в тег div)
+        	'container_class' => 'grid',              // (string) class контейнера (div тега)
+        	'container_id'    => '',              // (string) id контейнера (div тега)
+        	'menu_class'      => '',          // (string) class самого меню (ul тега)
+        	'menu_id'         => '',              // (string) id самого меню (ul тега)
+        	'echo'            => true,            // (boolean) Выводить на экран или возвращать для обработки
+        	'depth'           => 0,               // (integer) Глубина вложенности (0 - неограничена, 2 - двухуровневое меню)
+        ) ); ?>
     </nav>
 </header>
 ?>
