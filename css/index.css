@@ -848,7 +848,7 @@ body {
 body i {
     margin-right: 4px
 }
-.main-nav .grid {
+.main-nav>.grid {
     text-align: center;
 }
 
