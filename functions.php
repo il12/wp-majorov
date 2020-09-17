@@ -3,7 +3,7 @@
 wp_enqueue_style( 'index', get_template_directory_uri() .'/css/index.css');
 
 function load_font_awesome() {
-    wp_enqueue_style( 'font-awesome-style', '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
+    wp_enqueue_style( 'font-awesome-style', 'http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
 }
 
 function register_my_menus() {
