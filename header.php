@@ -30,7 +30,7 @@
         <?php wp_nav_menu( array(
         	'menu'            => 'Main menu',              // (string) Название выводимого меню (указывается в админке при создании меню, приоритетнее
         	'container'       => 'div',           // (string) Контейнер меню. Обворачиватель ul. Указывается тег контейнера (по умолчанию в тег div)
-        	'container_class' => 'grid',              // (string) class контейнера (div тега)
+        	'container_class' => 'grid align-center',              // (string) class контейнера (div тега)
         	'container_id'    => '',              // (string) id контейнера (div тега)
         	'menu_class'      => '',          // (string) class самого меню (ul тега)
         	'menu_id'         => '',              // (string) id самого меню (ul тега)
