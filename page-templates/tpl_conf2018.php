@@ -1,5 +1,5 @@
 <?php
-    /* Template Name: 2019 Conference Page */
+    /* Template Name: 2018 Conference Page */
     /* Template Post Type: post, page, event */
 ?>
 <?php get_header()?>
