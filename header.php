@@ -16,11 +16,11 @@
             <div class="site-logo">
                 <img src="<?php echo get_template_directory_uri();?>/img/face_logo.png">
             </div>
-            <h1 class="site-title"><a href="">MICSECS 2019</a></h1>
+            <h1 class="site-title"><a href="">MICSECS 2020</a></h1>
             <div class="site-title-second-line">
                 <h1>The Majorov International Conference on Software Engineering and Computer Systems</h1>
-                <h1>Date and place will be announced later </h1>
-                <!-- <h1><b style="color: #ee6952;"></b></h1><br> -->
+                <h1>Date and place will be announced soon</h1>
+                <h1><b style="color: #ee6952;"></b></h1><br>
             </div>
         </div>
     </div>
