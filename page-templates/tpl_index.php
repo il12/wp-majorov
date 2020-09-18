@@ -13,8 +13,7 @@
             while ($the_query -> have_posts()) : $the_query -> the_post();
         ?>
             <div class='post-preview'>
-                <h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></div>
-                <hr style="margin: 5px">
+                <h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
                 <div><?php the_excerpt(__('(more…)')); ?></div>
             </div>
         <?php
