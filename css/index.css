@@ -1416,3 +1416,19 @@ article footer p {
 .pt_mark3 {
     background-color: powderblue
 }
+
+.post-preview-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.post-preview {
+    float: left;
+    width: 30%;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    box-shadow: 0px 2px 7px #B1B1B1;
+    border-radius: 3px;
+}
