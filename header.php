@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> <?php wp_title(); ?></title>
+    <title> <?php wp_title("", false) ? wp_title("", true) : 'MICSECS 2020'  ?></title>
     <?php wp_head(); ?>
 </head>
 <body class="wrap">
@@ -19,8 +19,8 @@
             <h1 class="site-title"><a href="">MICSECS 2019</a></h1>
             <div class="site-title-second-line">
                 <h1>The Majorov International Conference on Software Engineering and Computer Systems</h1>
-                <h1>«Tochka kipeniya», 3 Medikov pr, Saint Petersburg, Russia</h1>
-                <h1><b style="color: #ee6952;">12-13 December 2019</b></h1><br>
+                <h1>Date and place will be announced later </h1>
+                <!-- <h1><b style="color: #ee6952;"></b></h1><br> -->
             </div>
         </div>
     </div>
