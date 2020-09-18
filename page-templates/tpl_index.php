@@ -9,7 +9,7 @@
         <div class="unit whole">
         <ul class='grid'>
         <?php
-            $the_query = new WP_Query( 'posts_per_page=5' );
+            $the_query = new WP_Query( 'posts_per_page=3' );
             while ($the_query -> have_posts()) : $the_query -> the_post();
         ?>
             <li class='unit'>
