@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> <?php wp_title("", false) ? wp_title("", true) : 'MICSECS 2020'  ?></title>
+    <title> <?php wp_title("", false) ? wp_title("", true) : 'MICSECS 2020';?> </title>
     <?php wp_head(); ?>
 </head>
 <body class="wrap">
