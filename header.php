@@ -19,8 +19,8 @@
             <h1 class="site-title"><a href="">MICSECS 2020</a></h1>
             <div class="site-title-second-line">
                 <h1>The Majorov International Conference on Software Engineering and Computer Systems</h1>
-                <h1>Date and place will be announced soon</h1>
-                <h1><b style="color: #ee6952;"></b></h1><br>
+                <h1>Date and place:</h1>
+                <h1><b style="color: #ee6952;">Will be announced soon</b></h1><br>
             </div>
         </div>
     </div>
