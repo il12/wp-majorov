@@ -7,7 +7,8 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-                <?php the_content() ?>
+                <h2><?php wp_title(); ?></h2>
+                <?php the_content(); ?>
         </div>
     </div>
 </section>
