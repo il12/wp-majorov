@@ -18,6 +18,11 @@ function register_my_menus() {
 add_filter( 'excerpt_length', function(){
 	return 20;
 } );
+add_filter( 'excerpt_more', 'new_excerpt_more' );
+function new_excerpt_more( $more ){
+	global $post;
+	return '<a href="'. get_permalink($post) . '">...</a>';
+}
 
 add_action( 'init', 'register_my_menus' );
 add_action( 'wp_enqueue_scripts', 'load_font_awesome' );
