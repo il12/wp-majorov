@@ -7,7 +7,7 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-            <h1 id="program">Program</h1>
+            <h2 id="program">Program</h2>
 
             <p>The detailed program is available by this link: <a href="<?php echo get_template_directory_uri();?>/media/MICSECS-2018_program.pdf"
                                                                   target="_blank"><strong>download program</strong></a>.

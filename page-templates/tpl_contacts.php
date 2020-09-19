@@ -7,7 +7,7 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-            <h1 id="contacts">Contacts</h1>
+            <h2 id="contacts">Contacts</h2>
 
             <p><strong>Address</strong>: ITMO University, 49 Kronverksky Pr., St. Petersburg, 197101, Russia</p>
 

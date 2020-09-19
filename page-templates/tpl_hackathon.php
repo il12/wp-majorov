@@ -7,8 +7,8 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-            <h1 id="black-day-hack-in-itmo-university"><strong>BLACK DAY HACK</strong> in <strong>ITMO
-                University</strong></h1>
+            <h2 id="black-day-hack-in-itmo-university"><strong>BLACK DAY HACK</strong> in <strong>ITMO
+                University</strong></h2>
 
             <p><a href="http://en.ifmo.ru/en/" target="_blank">ITMO University</a>, <a
                     href="https://laboratories.telekom.com">Telekom Innovation Laboratories (T- Labs)</a> and <a

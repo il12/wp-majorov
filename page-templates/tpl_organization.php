@@ -7,7 +7,7 @@
 <section class="content">
     <div class="grid post">
         <div class="unit whole">
-            <h1 id="organization">Organization</h1>
+            <h2 id="organization">Organization</h2>
 
             <p><strong>General Chair</strong>: Pavel Kustarev, ITMO University, Russia</p>
 

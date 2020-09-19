@@ -7,7 +7,7 @@
 <section class="content">
     <div id="home" class="grid post">
         <div class="unit whole">
-            <h1 id="call-for-papers">Call For Papers</h1>
+            <h2 id="call-for-papers">Call For Papers</h2>
 
             <p>The Majorov International Conference on Software Engineering and Computer Systems (<strong>MICSECS 2019</strong>) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engineering, Networks, Cyber-Physical Systems, Computer Security,  Multimedia technologies and AR/VR/MR technologies.</p>
 
