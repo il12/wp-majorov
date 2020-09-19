@@ -1429,6 +1429,6 @@ article footer p {
     width: 30%;
     margin: 5px 5px;
     padding: 5px 5px;
-    box-shadow: 0px 2px 7px #B1B1B1;
     border-radius: 3px;
+    border: #ee6952 1px solid;
 }
